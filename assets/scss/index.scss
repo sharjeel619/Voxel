@@ -1,0 +1,18 @@
+@import "variables";
+body {
+  font-family: monospace;
+  margin: 0;
+  color: $primary-color;
+
+  .primary-color {
+    color: $primary-color;
+  }
+
+  .secondary-color {
+    color: $secondary-color;
+  }
+
+  .primary-bg-color {
+    background-color: $primary-btn-color;
+  }
+}
